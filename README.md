@@ -1,13 +1,10 @@
-
-<br>
-<h1 align="center"><b>Hi , I'm Van Nguyen </b><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
+<h1 align="center"><b>Hi , I'm Van Nguyen </b><img src='https://media.giphy.com/media/bcKmIWkUMCjVm/giphy.gif' width='150' height="80"></h1>
 <p align="center">
     <img width="500" src="https://i.imgur.com/ZyRChEK.jpg">
 </p>
 
-<p align="center">
-  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Time+New+Roman&color=cyan&size=25&center=true&vCenter=true&width=600&height=100&lines=I'm a Frontend Engineer;..&hearts"></a>
-</p>
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Time+New+Roman&color=cyan&size=21&center=true&vCenter=true&width=1200&height=90&lines=I'm+a+Frontend+Engineer+passionate+about+creating+intuitive+and+engaging+user+experiences.)](https://github.com/DenverCoder1/readme-typing-svg)
+
 
 ## <picture><img src = "https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/about_me.gif" width = 50px></picture> **About me**
 
@@ -50,22 +47,14 @@
    ![JavaScript](https://img.shields.io/badge/JavaScript%20-%23F7DF1E.svg?style=for-the-badge&logo=javascript&logoColor=black)
    ![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
    ![TypeScript](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
-    
-
-
-<br>
-
-- **Cloud Hosting**:
-
-    ![Github Pages](https://img.shields.io/badge/GitHub%20Pages-%23327FC7.svg?style=for-the-badge&logo=github&logoColor=white)
-    
+        
 <br>
 
 - **Softwares and Tools**:
 
     ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
     ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
-    ![Google](https://img.shields.io/badge/google-%234285F4.svg?style=for-the-badge&logo=google&logoColor=white)
+    ![Figma](https://img.shields.io/badge/figma-%234285F4.svg?style=for-the-badge&logo=figma&logoColor=white)
     ![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
     ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black) 
 
@@ -74,8 +63,7 @@
 - **Extras**:
 
     ![Terminal](https://img.shields.io/badge/Terminal-%23054020?style=for-the-badge&logo=gnu-bash&logoColor=white)
-    ![Markdown](https://img.shields.io/badge/markdown-%23000000.svg?style=for-the-badge&logo=markdown&logoColor=white)   
-
+    ![Markdown](https://img.shields.io/badge/markdown-%23000000.svg?style=for-the-badge&logo=markdown&logoColor=white) 
 - **Seminar**:
 
     <picture> <img src="https://i.imgur.com/uRujHNZ.jpg" width =560px></picture>
@@ -115,8 +103,9 @@
 <br>
 <br>
 <picture> <img align="center" src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif" width = 900px></picture>
+<br>
 <em><b>Never give up. No matter how difficult it gets, remember that you have overcome greater challenges in the past, and you can conquer this one too.</b> 💜</em>
 <br>
 
 <br>
-<br>
+<br># vnnguyen197

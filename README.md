@@ -11,7 +11,7 @@
 <picture> <img align="right" src="https://i.imgur.com/ierjkDD.jpg" width =400px></picture>
 <br>
 
-- I'm a Frontend developer currently working in the field of information technology. I have over 1 years of experience in this field.
+- I'm a Frontend developer currently working in the field of information technology. I have almost 2 years of experience in this field.
 
 - I have studied and worked with various programming languages and technologies, such as HTML, CSS, JavaScript, and popular frameworks like React,... I have strong skills in building interactive user interfaces, optimizing performance, and ensuring cross-platform compatibility.
 
